@@ -7,7 +7,7 @@ const PORT = 3000;
 app.use(cors()) 
 app.use(express.json());
 
-
+//solo simulacion de db
 let productosMaquillaje = [
   { id: 1, nombre: "Base Líquida Fit Me", marca: "Maybelline", categoria: "Rostro", precio: 12000 },
   { id: 2, nombre: "Máscara Lash Sensational", marca: "Maybelline", categoria: "Ojos", precio: 15500 },
