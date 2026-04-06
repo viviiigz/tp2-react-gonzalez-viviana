@@ -1,7 +1,7 @@
 
-# Project Title
+# Trabajo Practico N2
 
-A brief description of what this project does and who it's for
+
 
 #  Catálogo de Maquillaje - Trabajo Práctico Nro 2
 
